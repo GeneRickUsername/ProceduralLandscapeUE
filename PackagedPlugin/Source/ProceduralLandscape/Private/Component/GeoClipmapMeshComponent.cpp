@@ -318,7 +318,7 @@ public:
 		// Check we have data 
 		if(	SectionData != nullptr) 			
 		{
-			FRHICommandListImmediate& RHICmdList = FRHICommandListExecutor::GetImmediateCommandList();;
+			FRHICommandListImmediate& RHICmdList = FRHICommandListExecutor::GetImmediateCommandList();
 			// Check it references a valid section
 			if (SectionData->TargetSection < Sections.Num() &&
 				Sections[SectionData->TargetSection] != nullptr)
