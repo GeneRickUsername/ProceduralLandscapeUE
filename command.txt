@@ -1,0 +1,4 @@
+cd C:\Program Files\Epic Games\UE_5.4\Engine\Build\BatchFiles && .\RunUAT.bat BuildPlugin -plugin="C:\Users\Tired\GitHub\ProceduralLandscapeUE\ProceduralLandscape.uplugin" -package="C:\Users\Tired\GitHub\ProceduralLandscapeUE\PackagedPlugin" -TargetPlatforms=Win64
+
+
+.\RunUAT.bat BuildPlugin -plugin="C:\Users\Tired\GitHub\ProceduralLandscapeUE\ProceduralLandscape.uplugin" -package="C:\Users\Tired\GitHub\ProceduralLandscapeUE\PackagedPlugin" -TargetPlatforms=Win64

@@ -1,0 +1,10 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\ProceduralLandscape\\Module.ProceduralLandscape.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\ProceduralLandscape\\ProceduralLandscape.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\ProceduralLandscape\\GeometryClipMapWorld.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\ProceduralLandscape\\TickInEditorActor.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\ProceduralLandscape\\GeoClipmapMeshComponent.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\ProceduralLandscape\\Spawnable_Mesh_Collection.cpp.obj"
+	]
+}
